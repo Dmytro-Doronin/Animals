@@ -7,3 +7,4 @@ A small collection of animal files.
 - [Cat](./cat.md)
 - [Dog](./dog.md)
 - [Elephant](./elephant.md)
+- [Pterodactyl](pterodactyl.md)
